@@ -65,7 +65,7 @@ Aplikasi akan berjalan di `http://localhost:5173/` secara default.
 
 - ⚡ **Vite** – Build tool super cepat untuk React
 - ⚛ **React.js** – Framework frontend berbasis komponen
-- 🎨 **Tailwind CSS (Opsional)** – Untuk styling yang efisien
-- 🔗 **React Router (Opsional)** – Jika proyek menggunakan navigasi halaman
+- 🎨 **Tailwind CSS** – Untuk styling yang efisien
+- 🔗 **React Router** – proyek menggunakan navigasi halaman
 
 ---
