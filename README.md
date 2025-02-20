@@ -1,8 +1,61 @@
-# React + Vite
+# 🚀 Blogger - React (Vite) Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat datang di **Blogger**, sebuah proyek blog yang dibuat menggunakan **React.js + Vite**. Proyek ini dirancang agar ringan, cepat, dan mudah dikembangkan lebih lanjut.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Fitur Utama
+✅ **Cepat & Ringan** – Menggunakan Vite untuk kecepatan build dan pengembangan yang optimal.  
+✅ **Component-Based** – Struktur berbasis komponen untuk kemudahan pengelolaan kode.  
+✅ **API Ready** – Dapat diintegrasikan dengan API untuk mendapatkan data blog secara dinamis.  
+---
+
+## 📂 Struktur Proyek
+```plaintext
+📦 blogger-project/
+ ┣ 📂 src/
+ ┃ ┣ 📂 components/      # Komponen UI yang digunakan dalam aplikasi
+ ┃ ┣ 📂 pages/           # Halaman utama (Home, Blog, About, dll.)
+ ┃ ┣ 📂 assets/          # File statis seperti gambar & ikon
+ ┃ ┣ 📜 App.jsx          # Entry point utama React
+ ┃ ┣ 📜 main.jsx         # Konfigurasi Vite dan rendering aplikasi
+ ┣ 📜 index.html         # File utama HTML
+ ┣ 📜 package.json       # Dependensi & script npm
+ ┣ 📜 README.md          # Dokumentasi proyek ini
+ ┗ 📜 vite.config.js     # Konfigurasi Vite
+```
+
+---
+
+## 🛠️ Cara Install & Menjalankan Proyek
+
+1️⃣ **Clone repositori ini**  
+```bash
+git clone https://github.com/username/blogger-project.git
+```
+
+2️⃣ **Masuk ke folder proyek**  
+```bash
+cd blogger-project
+```
+
+3️⃣ **Install dependencies**  
+```bash
+npm install
+```
+
+4️⃣ **Jalankan proyek dalam mode development**  
+```bash
+npm run dev
+```
+Aplikasi akan berjalan di `http://localhost:5173/` secara default.
+
+---
+
+## 📚 Teknologi yang Digunakan
+- ⚡ **Vite** – Build tool super cepat untuk React  
+- ⚛ **React.js** – Framework frontend berbasis komponen  
+- 🎨 **Tailwind CSS (Opsional)** – Untuk styling yang efisien  
+- 🔗 **React Router (Opsional)** – Jika proyek menggunakan navigasi halaman  
+
+---
