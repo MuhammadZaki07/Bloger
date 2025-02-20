@@ -8,6 +8,7 @@ Selamat datang di **Blogger**, sebuah proyek blog yang dibuat menggunakan **Reac
 ✅ **Cepat & Ringan** – Menggunakan Vite untuk kecepatan build dan pengembangan yang optimal.  
 ✅ **Component-Based** – Struktur berbasis komponen untuk kemudahan pengelolaan kode.  
 ✅ **API Ready** – Dapat diintegrasikan dengan API untuk mendapatkan data blog secara dinamis.  
+
 ---
 
 ## 📂 Struktur Proyek
