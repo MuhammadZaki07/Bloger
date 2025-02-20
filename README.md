@@ -36,13 +36,13 @@ Selamat datang di **Blogger**, sebuah proyek blog yang dibuat menggunakan **Reac
 1️⃣ **Clone repositori ini**
 
 ```bash
-git clone https://github.com/username/blogger-project.git
+git clone https://github.com/MuhammadZaki07/Bloger.git
 ```
 
 2️⃣ **Masuk ke folder proyek**
 
 ```bash
-cd blogger-project
+cd blogger
 ```
 
 3️⃣ **Install dependencies**
